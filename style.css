@@ -3,6 +3,9 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.section-01 {
+.section-01{
     text-align: center;
+}
+.anchor{
+    text-decoration: none;
 }
